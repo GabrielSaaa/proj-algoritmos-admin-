@@ -37,6 +37,8 @@
 ### **Para o Administrador:**
 1. Ao abrir o programa do administrador:
    - Faça login utilizando a senha de administrador.
+   - Login: admin.
+   - Senha: 123456.
 2. O menu administrativo será exibido. As funcionalidades disponíveis são:
    - **Adicionar Usuário**: Cadastrar um novo usuário no sistema.
    - **Excluir Usuário**: Remover um usuário do sistema.
