@@ -44,7 +44,7 @@
    - **Consultar Extrato de um Usuário**: Informar o CPF de um investidor e visualizar o extrato completo de transações.
    - **Cadastrar Nova Criptomoeda**: Adicionar uma nova criptomoeda ao sistema, informando nome, cotação inicial, taxa de compra e taxa de venda.
    - **Excluir Criptomoeda**: Remover uma criptomoeda existente. O sistema exibirá os detalhes da moeda e pedirá confirmação para exclusão.
-   - **Atualizar Cotações de Criptomoedas**: Aplicar uma variação aleatória entre -5% e 5% às cotações das criptomoedas.
+   - **Atualizar Cotações de Criptomoedas**: Atualizar os valores de mercado das criptomoedas.
 3. Ao finalizar, escolha a opção **Sair** para encerrar o programa.
 
 ## Autores
